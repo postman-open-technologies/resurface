@@ -3,7 +3,7 @@ This is a repo for managing our our partnership with Resurface, providing a sing
 
 ## Links
 
-- [AResurface Website](https://resurface.io/)
+- [Resurface Website](https://resurface.io/)
 - [Resurface Blog](https://resurface.io/blog)
 - [Resurface Github](https://github.com/resurfaceio)
 - [Resurface Twtiter](https://twitter.com/resurfacelabs)
